@@ -1,4 +1,4 @@
-Miwok App
+Kazakh Vocabulary App
 ===================================
 
 This app from Udacity lessons 
